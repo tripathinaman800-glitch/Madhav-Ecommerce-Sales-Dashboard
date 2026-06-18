@@ -22,17 +22,24 @@ The dashboard provides a comprehensive view of key business metrics and enables 
 
 ## Dataset Information
 
-The dataset contains ecommerce transaction records including:
+The project uses ecommerce transaction data consisting of:
 
-- Order Amount
+### Orders Table
+- Order ID
+- Order Date
+- Customer Name
+- State
+- City
+
+### Transaction Details Table
+- Product Category
+- Product Sub-Category
+- Amount
 - Profit
-- Quantity Sold
-- Customer Information
-- Product Categories
-- Product Sub-Categories
-- Payment Modes
-- State-wise Sales Data
+- Quantity
+- Payment Mode
 
+The data was modeled in Power BI to analyze sales performance, profitability, customer behavior, and payment preferences.
 ---
 
 ## Tools & Technologies
