@@ -136,7 +136,7 @@ This visualization highlights sales performance across different states, helping
 
 ![Profit Analysis](Screenshots/profit_analysis.png)
 
-This analysis tracks monthly profit trends and identifies the most profitable product sub-categories, supporting profitability-focused decision making.
+This analysis identifies the most profitable product sub-categories, supporting profitability-focused decision making.
 
 ---
 
