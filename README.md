@@ -114,6 +114,39 @@ The data was modeled in Power BI to analyze sales performance, profitability, cu
 
 ---
 
+## Sample Dashboard Outputs
+
+### Dashboard Overview
+
+![Dashboard Overview](Screenshots/dashboard_overview.png)
+
+This overview dashboard provides key business KPIs including Total Sales Amount, Total Profit, Total Quantity Sold, and Average Order Value (AOV), along with interactive filters for deeper analysis.
+
+---
+
+### State-wise Sales Analysis
+
+![State-wise Sales Analysis](Screenshots/state_sales_analysis.png)
+
+This visualization highlights sales performance across different states, helping identify top-performing regions and market opportunities.
+
+---
+
+### Profit Analysis
+
+![Profit Analysis](Screenshots/profit_analysis.png)
+
+This analysis tracks monthly profit trends and identifies the most profitable product sub-categories, supporting profitability-focused decision making.
+
+---
+
+### Payment Mode Analysis
+
+![Payment Mode Analysis](Screenshots/payment_mode_analysis.png)
+
+This visualization shows customer payment preferences and helps understand transaction behavior across different payment methods.
+
+---
 
 ## Author
 
